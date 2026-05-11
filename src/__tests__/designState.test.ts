@@ -32,7 +32,7 @@ describe("getPanelShape", () => {
 // ---------------------------------------------------------------------------
 describe("applyColor", () => {
   it("adds a color entry without mutating the original", () => {
-    const original = { "panel_001_pentagon": "#ff0000" };
+    const original: Record<string, string> = { "panel_001_pentagon": "#ff0000" };
     const result = applyColor(original, "panel_002_pentagon", "#0000ff");
     expect(result["panel_002_pentagon"]).toBe("#0000ff");
     expect(original["panel_002_pentagon"]).toBeUndefined();
