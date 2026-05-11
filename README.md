@@ -1,5 +1,9 @@
 # Footbag 3D Designer
 
+[![Deploy](https://github.com/vsi5004/Footbag-3D-Visualizer/actions/workflows/deploy.yml/badge.svg)](https://github.com/vsi5004/Footbag-3D-Visualizer/actions/workflows/deploy.yml)
+[![Release](https://img.shields.io/github/v/release/vsi5004/Footbag-3D-Visualizer)](https://github.com/vsi5004/Footbag-3D-Visualizer/releases/latest)
+[![Node](https://img.shields.io/badge/node-%3E%3D18-brightgreen)](https://nodejs.org)
+
 An interactive browser tool for designing color patterns on 3D footbag models. Paint individual panels, save your design as a JSON file, and share it with a single URL — no account or backend required.
 
 ## What it does
