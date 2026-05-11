@@ -207,7 +207,7 @@ export function FootbagDesigner() {
   );
 
   return (
-    <div style={styles.root}>
+    <div className="fd-root" style={styles.root}>
       {/* Full-width header */}
       <header style={styles.header}>
         <span style={styles.logo}>Footbag Designer</span>
@@ -243,7 +243,7 @@ export function FootbagDesigner() {
       {/* Two-column body */}
       <div style={styles.body}>
         {/* Controls sidebar */}
-        <aside style={styles.controls}>
+        <aside className="fd-controls" style={styles.controls}>
           <Section title="Panel Count">
             <ModelSelector
               models={FOOTBAG_MODELS}
@@ -286,7 +286,7 @@ export function FootbagDesigner() {
         </aside>
 
         {/* 3D canvas */}
-        <main style={styles.canvasArea}>
+        <main className="fd-canvas-area" style={styles.canvasArea}>
           <PanelInfoBar
             panelId={selectedPanelId}
             panelColors={panelColors}
@@ -347,14 +347,9 @@ const sectionStyles = {
 
 const styles = {
   root: {
-    display: "grid",
-    gridTemplateRows: "auto 1fr",
-    gridTemplateColumns: "360px 1fr",
-    height: "100vh",
     background: "var(--bg)",
     color: "var(--text)",
     fontFamily: "inherit",
-    overflow: "hidden",
   },
   header: {
     gridColumn: "1 / -1",
@@ -389,8 +384,6 @@ const styles = {
   },
   body: { display: "contents" },
   controls: {
-    gridColumn: 1,
-    gridRow: 2,
     background: "var(--card)",
     borderRight: "1px solid var(--border)",
     padding: "16px",
@@ -398,7 +391,7 @@ const styles = {
     display: "flex",
     flexDirection: "column",
   },
-  canvasArea: { gridColumn: 2, gridRow: 2, minWidth: 0, minHeight: 0, position: "relative" },
+  canvasArea: { minWidth: 0, minHeight: 0, position: "relative" },
   actionButtons: { display: "flex", flexDirection: "column", gap: "8px" },
   actionBtn: {
     padding: "8px 12px",

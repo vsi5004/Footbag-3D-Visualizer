@@ -39,3 +39,53 @@ input:focus-visible {
 ::-webkit-scrollbar-track { background: transparent; }
 ::-webkit-scrollbar-thumb { background: var(--card-btn); border-radius: 3px; }
 ::-webkit-scrollbar-thumb:hover { background: var(--hover); }
+
+@keyframes spin {
+  to { transform: rotate(360deg); }
+}
+
+/* ── Layout grid ──────────────────────────────────────────────────────────── */
+
+.fd-root {
+  display: grid;
+  grid-template-rows: auto 1fr;
+  grid-template-columns: 360px 1fr;
+  height: 100vh;
+  overflow: hidden;
+}
+
+.fd-controls {
+  grid-column: 1;
+  grid-row: 2;
+}
+
+.fd-canvas-area {
+  grid-column: 2;
+  grid-row: 2;
+}
+
+/* On narrow portrait screens: stack canvas above controls */
+@media (max-width: 700px) {
+  .fd-root {
+    grid-template-columns: 1fr;
+    grid-template-rows: auto 45vh 1fr;
+  }
+
+  .fd-canvas-area {
+    grid-column: 1;
+    grid-row: 2;
+  }
+
+  .fd-controls {
+    grid-column: 1;
+    grid-row: 3;
+  }
+
+  /* Larger touch targets */
+  button {
+    min-height: 44px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 15px;
+  }
+}

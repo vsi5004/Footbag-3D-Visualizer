@@ -58,7 +58,11 @@ export const FootbagCanvas = memo(function FootbagCanvas({
     <div style={styles.wrapper}>
       {isLoading && (
         <div style={styles.loadingOverlay}>
-          <span style={styles.loadingText}>Loading model…</span>
+          <svg style={styles.spinner} viewBox="0 0 40 40" fill="none">
+            <circle cx="20" cy="20" r="16" stroke="#2a2f43" strokeWidth="4" />
+            <circle cx="20" cy="20" r="16" stroke="#4ea1ff" strokeWidth="4"
+              strokeDasharray="60 40" strokeLinecap="round" />
+          </svg>
         </div>
       )}
       <Canvas
@@ -103,9 +107,9 @@ const styles = {
     zIndex: 1,
     pointerEvents: "none",
   },
-  loadingText: {
-    fontSize: "14px",
-    color: "#a0a0a0",
-    letterSpacing: "0.05em",
+  spinner: {
+    width: "40px",
+    height: "40px",
+    animation: "spin 0.9s linear infinite",
   },
 } satisfies Record<string, React.CSSProperties>;
