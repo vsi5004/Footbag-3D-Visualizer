@@ -9,7 +9,7 @@ const { version } = JSON.parse(readFileSync("./package.json", "utf8"));
 //   BASE=/Footbag-3D-Visualizer
 // For a custom domain set BASE=/ and SITE=https://yourdomain.com
 const site = process.env.SITE || undefined;
-const base = process.env.BASE || "/";
+const base = (process.env.BASE || "/").replace(/\/?$/, "/");
 
 export default defineConfig({
   output: "static",
