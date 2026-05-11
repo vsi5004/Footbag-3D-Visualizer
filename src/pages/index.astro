@@ -1,0 +1,17 @@
+---
+import "../styles/global.css";
+import { FootbagDesigner } from "../components/footbag-designer/FootbagDesigner.tsx";
+---
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="Footbag panel color designer — visualize and design custom footbag color patterns in 3D." />
+    <title>Footbag Designer</title>
+  </head>
+  <body>
+    <FootbagDesigner client:only="react" />
+  </body>
+</html>

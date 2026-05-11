@@ -1,0 +1,41 @@
+:root {
+  --bg:           #0e0f12;
+  --card:         #171923;
+  --panel:        #0f1117;
+  --text:         #e6e6e6;
+  --muted:        #a0a0a0;
+  --accent:       #4ea1ff;
+  --border:       #222638;
+  --card-btn:     #2a2f43;
+  --hover:        #364064;
+}
+
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+
+html, body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  background: var(--bg);
+  color: var(--text);
+  font-family: system-ui, -apple-system, "Segoe UI", Roboto, Ubuntu, Cantarell,
+    "Noto Sans", "Helvetica Neue", Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+}
+
+button {
+  font-family: inherit;
+}
+
+button:focus-visible,
+input:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: 2px;
+}
+
+::-webkit-scrollbar { width: 6px; }
+::-webkit-scrollbar-track { background: transparent; }
+::-webkit-scrollbar-thumb { background: var(--card-btn); border-radius: 3px; }
+::-webkit-scrollbar-thumb:hover { background: var(--hover); }

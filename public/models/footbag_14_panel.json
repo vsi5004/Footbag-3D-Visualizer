@@ -1,0 +1,20 @@
+{
+  "model": "footbag_14_panel",
+  "style": "14",
+  "panels": [
+    { "id": "panel_001_square", "index": 1, "shape": "square", "source": "vertex_cut" },
+    { "id": "panel_002_square", "index": 2, "shape": "square", "source": "vertex_cut" },
+    { "id": "panel_003_square", "index": 3, "shape": "square", "source": "vertex_cut" },
+    { "id": "panel_004_square", "index": 4, "shape": "square", "source": "vertex_cut" },
+    { "id": "panel_005_square", "index": 5, "shape": "square", "source": "vertex_cut" },
+    { "id": "panel_006_square", "index": 6, "shape": "square", "source": "vertex_cut" },
+    { "id": "panel_007_hexagon", "index": 7, "shape": "hexagon", "source": "original_face" },
+    { "id": "panel_008_hexagon", "index": 8, "shape": "hexagon", "source": "original_face" },
+    { "id": "panel_009_hexagon", "index": 9, "shape": "hexagon", "source": "original_face" },
+    { "id": "panel_010_hexagon", "index": 10, "shape": "hexagon", "source": "original_face" },
+    { "id": "panel_011_hexagon", "index": 11, "shape": "hexagon", "source": "original_face" },
+    { "id": "panel_012_hexagon", "index": 12, "shape": "hexagon", "source": "original_face" },
+    { "id": "panel_013_hexagon", "index": 13, "shape": "hexagon", "source": "original_face" },
+    { "id": "panel_014_hexagon", "index": 14, "shape": "hexagon", "source": "original_face" }
+  ]
+}

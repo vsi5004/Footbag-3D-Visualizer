@@ -1,0 +1,30 @@
+node_modules
+
+# Build output
+dist/
+
+# Astro generated cache
+.astro/
+
+# Python script GLB export staging area
+/models/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# Logs
+*.log
+npm-debug.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Claude Code project files
+.claude/

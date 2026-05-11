@@ -1,0 +1,169 @@
+{
+  "model": "footbag_26_panel",
+  "style": "26",
+  "radius": 2.0,
+  "panel_gap": 0.0001,
+  "panel_puff": 0.035,
+  "create_seam_shadow": false,
+  "edge_relaxation": false,
+  "edge_relaxation_mode": null,
+  "hex_short_to_long_ratio": null,
+  "panels": [
+    {
+      "id": "panel_001_square",
+      "index": 1,
+      "shape": "square",
+      "source": "cantellated_vertex"
+    },
+    {
+      "id": "panel_002_square",
+      "index": 2,
+      "shape": "square",
+      "source": "cantellated_vertex"
+    },
+    {
+      "id": "panel_003_square",
+      "index": 3,
+      "shape": "square",
+      "source": "cantellated_vertex"
+    },
+    {
+      "id": "panel_004_square",
+      "index": 4,
+      "shape": "square",
+      "source": "cantellated_vertex"
+    },
+    {
+      "id": "panel_005_square",
+      "index": 5,
+      "shape": "square",
+      "source": "cantellated_vertex"
+    },
+    {
+      "id": "panel_006_square",
+      "index": 6,
+      "shape": "square",
+      "source": "cantellated_vertex"
+    },
+    {
+      "id": "panel_007_square",
+      "index": 7,
+      "shape": "square",
+      "source": "cantellated_edge"
+    },
+    {
+      "id": "panel_008_square",
+      "index": 8,
+      "shape": "square",
+      "source": "cantellated_edge"
+    },
+    {
+      "id": "panel_009_square",
+      "index": 9,
+      "shape": "square",
+      "source": "cantellated_edge"
+    },
+    {
+      "id": "panel_010_square",
+      "index": 10,
+      "shape": "square",
+      "source": "cantellated_edge"
+    },
+    {
+      "id": "panel_011_square",
+      "index": 11,
+      "shape": "square",
+      "source": "cantellated_edge"
+    },
+    {
+      "id": "panel_012_square",
+      "index": 12,
+      "shape": "square",
+      "source": "cantellated_edge"
+    },
+    {
+      "id": "panel_013_square",
+      "index": 13,
+      "shape": "square",
+      "source": "cantellated_edge"
+    },
+    {
+      "id": "panel_014_square",
+      "index": 14,
+      "shape": "square",
+      "source": "cantellated_edge"
+    },
+    {
+      "id": "panel_015_square",
+      "index": 15,
+      "shape": "square",
+      "source": "cantellated_edge"
+    },
+    {
+      "id": "panel_016_square",
+      "index": 16,
+      "shape": "square",
+      "source": "cantellated_edge"
+    },
+    {
+      "id": "panel_017_square",
+      "index": 17,
+      "shape": "square",
+      "source": "cantellated_edge"
+    },
+    {
+      "id": "panel_018_square",
+      "index": 18,
+      "shape": "square",
+      "source": "cantellated_edge"
+    },
+    {
+      "id": "panel_019_triangle",
+      "index": 19,
+      "shape": "triangle",
+      "source": "original_triangle"
+    },
+    {
+      "id": "panel_020_triangle",
+      "index": 20,
+      "shape": "triangle",
+      "source": "original_triangle"
+    },
+    {
+      "id": "panel_021_triangle",
+      "index": 21,
+      "shape": "triangle",
+      "source": "original_triangle"
+    },
+    {
+      "id": "panel_022_triangle",
+      "index": 22,
+      "shape": "triangle",
+      "source": "original_triangle"
+    },
+    {
+      "id": "panel_023_triangle",
+      "index": 23,
+      "shape": "triangle",
+      "source": "original_triangle"
+    },
+    {
+      "id": "panel_024_triangle",
+      "index": 24,
+      "shape": "triangle",
+      "source": "original_triangle"
+    },
+    {
+      "id": "panel_025_triangle",
+      "index": 25,
+      "shape": "triangle",
+      "source": "original_triangle"
+    },
+    {
+      "id": "panel_026_triangle",
+      "index": 26,
+      "shape": "triangle",
+      "source": "original_triangle"
+    }
+  ]
+}

@@ -1,0 +1,385 @@
+{
+  "model": "footbag_62_panel",
+  "style": "62",
+  "radius": 2.0,
+  "panel_gap": 0.0001,
+  "panel_puff": 0.035,
+  "create_seam_shadow": false,
+  "edge_relaxation": false,
+  "edge_relaxation_mode": null,
+  "hex_short_to_long_ratio": null,
+  "panels": [
+    {
+      "id": "panel_001_pentagon",
+      "index": 1,
+      "shape": "pentagon",
+      "source": "cantellated_vertex"
+    },
+    {
+      "id": "panel_002_pentagon",
+      "index": 2,
+      "shape": "pentagon",
+      "source": "cantellated_vertex"
+    },
+    {
+      "id": "panel_003_pentagon",
+      "index": 3,
+      "shape": "pentagon",
+      "source": "cantellated_vertex"
+    },
+    {
+      "id": "panel_004_pentagon",
+      "index": 4,
+      "shape": "pentagon",
+      "source": "cantellated_vertex"
+    },
+    {
+      "id": "panel_005_pentagon",
+      "index": 5,
+      "shape": "pentagon",
+      "source": "cantellated_vertex"
+    },
+    {
+      "id": "panel_006_pentagon",
+      "index": 6,
+      "shape": "pentagon",
+      "source": "cantellated_vertex"
+    },
+    {
+      "id": "panel_007_pentagon",
+      "index": 7,
+      "shape": "pentagon",
+      "source": "cantellated_vertex"
+    },
+    {
+      "id": "panel_008_pentagon",
+      "index": 8,
+      "shape": "pentagon",
+      "source": "cantellated_vertex"
+    },
+    {
+      "id": "panel_009_pentagon",
+      "index": 9,
+      "shape": "pentagon",
+      "source": "cantellated_vertex"
+    },
+    {
+      "id": "panel_010_pentagon",
+      "index": 10,
+      "shape": "pentagon",
+      "source": "cantellated_vertex"
+    },
+    {
+      "id": "panel_011_pentagon",
+      "index": 11,
+      "shape": "pentagon",
+      "source": "cantellated_vertex"
+    },
+    {
+      "id": "panel_012_pentagon",
+      "index": 12,
+      "shape": "pentagon",
+      "source": "cantellated_vertex"
+    },
+    {
+      "id": "panel_013_square",
+      "index": 13,
+      "shape": "square",
+      "source": "cantellated_edge"
+    },
+    {
+      "id": "panel_014_square",
+      "index": 14,
+      "shape": "square",
+      "source": "cantellated_edge"
+    },
+    {
+      "id": "panel_015_square",
+      "index": 15,
+      "shape": "square",
+      "source": "cantellated_edge"
+    },
+    {
+      "id": "panel_016_square",
+      "index": 16,
+      "shape": "square",
+      "source": "cantellated_edge"
+    },
+    {
+      "id": "panel_017_square",
+      "index": 17,
+      "shape": "square",
+      "source": "cantellated_edge"
+    },
+    {
+      "id": "panel_018_square",
+      "index": 18,
+      "shape": "square",
+      "source": "cantellated_edge"
+    },
+    {
+      "id": "panel_019_square",
+      "index": 19,
+      "shape": "square",
+      "source": "cantellated_edge"
+    },
+    {
+      "id": "panel_020_square",
+      "index": 20,
+      "shape": "square",
+      "source": "cantellated_edge"
+    },
+    {
+      "id": "panel_021_square",
+      "index": 21,
+      "shape": "square",
+      "source": "cantellated_edge"
+    },
+    {
+      "id": "panel_022_square",
+      "index": 22,
+      "shape": "square",
+      "source": "cantellated_edge"
+    },
+    {
+      "id": "panel_023_square",
+      "index": 23,
+      "shape": "square",
+      "source": "cantellated_edge"
+    },
+    {
+      "id": "panel_024_square",
+      "index": 24,
+      "shape": "square",
+      "source": "cantellated_edge"
+    },
+    {
+      "id": "panel_025_square",
+      "index": 25,
+      "shape": "square",
+      "source": "cantellated_edge"
+    },
+    {
+      "id": "panel_026_square",
+      "index": 26,
+      "shape": "square",
+      "source": "cantellated_edge"
+    },
+    {
+      "id": "panel_027_square",
+      "index": 27,
+      "shape": "square",
+      "source": "cantellated_edge"
+    },
+    {
+      "id": "panel_028_square",
+      "index": 28,
+      "shape": "square",
+      "source": "cantellated_edge"
+    },
+    {
+      "id": "panel_029_square",
+      "index": 29,
+      "shape": "square",
+      "source": "cantellated_edge"
+    },
+    {
+      "id": "panel_030_square",
+      "index": 30,
+      "shape": "square",
+      "source": "cantellated_edge"
+    },
+    {
+      "id": "panel_031_square",
+      "index": 31,
+      "shape": "square",
+      "source": "cantellated_edge"
+    },
+    {
+      "id": "panel_032_square",
+      "index": 32,
+      "shape": "square",
+      "source": "cantellated_edge"
+    },
+    {
+      "id": "panel_033_square",
+      "index": 33,
+      "shape": "square",
+      "source": "cantellated_edge"
+    },
+    {
+      "id": "panel_034_square",
+      "index": 34,
+      "shape": "square",
+      "source": "cantellated_edge"
+    },
+    {
+      "id": "panel_035_square",
+      "index": 35,
+      "shape": "square",
+      "source": "cantellated_edge"
+    },
+    {
+      "id": "panel_036_square",
+      "index": 36,
+      "shape": "square",
+      "source": "cantellated_edge"
+    },
+    {
+      "id": "panel_037_square",
+      "index": 37,
+      "shape": "square",
+      "source": "cantellated_edge"
+    },
+    {
+      "id": "panel_038_square",
+      "index": 38,
+      "shape": "square",
+      "source": "cantellated_edge"
+    },
+    {
+      "id": "panel_039_square",
+      "index": 39,
+      "shape": "square",
+      "source": "cantellated_edge"
+    },
+    {
+      "id": "panel_040_square",
+      "index": 40,
+      "shape": "square",
+      "source": "cantellated_edge"
+    },
+    {
+      "id": "panel_041_square",
+      "index": 41,
+      "shape": "square",
+      "source": "cantellated_edge"
+    },
+    {
+      "id": "panel_042_square",
+      "index": 42,
+      "shape": "square",
+      "source": "cantellated_edge"
+    },
+    {
+      "id": "panel_043_triangle",
+      "index": 43,
+      "shape": "triangle",
+      "source": "original_triangle"
+    },
+    {
+      "id": "panel_044_triangle",
+      "index": 44,
+      "shape": "triangle",
+      "source": "original_triangle"
+    },
+    {
+      "id": "panel_045_triangle",
+      "index": 45,
+      "shape": "triangle",
+      "source": "original_triangle"
+    },
+    {
+      "id": "panel_046_triangle",
+      "index": 46,
+      "shape": "triangle",
+      "source": "original_triangle"
+    },
+    {
+      "id": "panel_047_triangle",
+      "index": 47,
+      "shape": "triangle",
+      "source": "original_triangle"
+    },
+    {
+      "id": "panel_048_triangle",
+      "index": 48,
+      "shape": "triangle",
+      "source": "original_triangle"
+    },
+    {
+      "id": "panel_049_triangle",
+      "index": 49,
+      "shape": "triangle",
+      "source": "original_triangle"
+    },
+    {
+      "id": "panel_050_triangle",
+      "index": 50,
+      "shape": "triangle",
+      "source": "original_triangle"
+    },
+    {
+      "id": "panel_051_triangle",
+      "index": 51,
+      "shape": "triangle",
+      "source": "original_triangle"
+    },
+    {
+      "id": "panel_052_triangle",
+      "index": 52,
+      "shape": "triangle",
+      "source": "original_triangle"
+    },
+    {
+      "id": "panel_053_triangle",
+      "index": 53,
+      "shape": "triangle",
+      "source": "original_triangle"
+    },
+    {
+      "id": "panel_054_triangle",
+      "index": 54,
+      "shape": "triangle",
+      "source": "original_triangle"
+    },
+    {
+      "id": "panel_055_triangle",
+      "index": 55,
+      "shape": "triangle",
+      "source": "original_triangle"
+    },
+    {
+      "id": "panel_056_triangle",
+      "index": 56,
+      "shape": "triangle",
+      "source": "original_triangle"
+    },
+    {
+      "id": "panel_057_triangle",
+      "index": 57,
+      "shape": "triangle",
+      "source": "original_triangle"
+    },
+    {
+      "id": "panel_058_triangle",
+      "index": 58,
+      "shape": "triangle",
+      "source": "original_triangle"
+    },
+    {
+      "id": "panel_059_triangle",
+      "index": 59,
+      "shape": "triangle",
+      "source": "original_triangle"
+    },
+    {
+      "id": "panel_060_triangle",
+      "index": 60,
+      "shape": "triangle",
+      "source": "original_triangle"
+    },
+    {
+      "id": "panel_061_triangle",
+      "index": 61,
+      "shape": "triangle",
+      "source": "original_triangle"
+    },
+    {
+      "id": "panel_062_triangle",
+      "index": 62,
+      "shape": "triangle",
+      "source": "original_triangle"
+    }
+  ]
+}

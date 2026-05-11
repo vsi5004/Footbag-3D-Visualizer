@@ -1,0 +1,97 @@
+{
+  "model": "footbag_cubocta_panel",
+  "style": "cubocta",
+  "radius": 2.0,
+  "panel_gap": 0.0001,
+  "panel_puff": 0.035,
+  "create_seam_shadow": false,
+  "edge_relaxation": false,
+  "edge_relaxation_mode": null,
+  "hex_short_to_long_ratio": null,
+  "panels": [
+    {
+      "id": "panel_001_square",
+      "index": 1,
+      "shape": "square",
+      "source": "rectified_vertex"
+    },
+    {
+      "id": "panel_002_square",
+      "index": 2,
+      "shape": "square",
+      "source": "rectified_vertex"
+    },
+    {
+      "id": "panel_003_square",
+      "index": 3,
+      "shape": "square",
+      "source": "rectified_vertex"
+    },
+    {
+      "id": "panel_004_square",
+      "index": 4,
+      "shape": "square",
+      "source": "rectified_vertex"
+    },
+    {
+      "id": "panel_005_square",
+      "index": 5,
+      "shape": "square",
+      "source": "rectified_vertex"
+    },
+    {
+      "id": "panel_006_square",
+      "index": 6,
+      "shape": "square",
+      "source": "rectified_vertex"
+    },
+    {
+      "id": "panel_007_triangle",
+      "index": 7,
+      "shape": "triangle",
+      "source": "original_triangle"
+    },
+    {
+      "id": "panel_008_triangle",
+      "index": 8,
+      "shape": "triangle",
+      "source": "original_triangle"
+    },
+    {
+      "id": "panel_009_triangle",
+      "index": 9,
+      "shape": "triangle",
+      "source": "original_triangle"
+    },
+    {
+      "id": "panel_010_triangle",
+      "index": 10,
+      "shape": "triangle",
+      "source": "original_triangle"
+    },
+    {
+      "id": "panel_011_triangle",
+      "index": 11,
+      "shape": "triangle",
+      "source": "original_triangle"
+    },
+    {
+      "id": "panel_012_triangle",
+      "index": 12,
+      "shape": "triangle",
+      "source": "original_triangle"
+    },
+    {
+      "id": "panel_013_triangle",
+      "index": 13,
+      "shape": "triangle",
+      "source": "original_triangle"
+    },
+    {
+      "id": "panel_014_triangle",
+      "index": 14,
+      "shape": "triangle",
+      "source": "original_triangle"
+    }
+  ]
+}

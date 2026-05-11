@@ -1,0 +1,121 @@
+{
+  "model": "footbag_18_panel",
+  "style": "18",
+  "radius": 2.0,
+  "panel_gap": 0.0001,
+  "panel_puff": 0.03,
+  "create_seam_shadow": false,
+  "edge_relaxation": true,
+  "edge_relaxation_mode": "long_short",
+  "hex_short_to_long_ratio": 0.001,
+  "panels": [
+    {
+      "id": "panel_001_square",
+      "index": 1,
+      "shape": "square",
+      "source": "square_corner"
+    },
+    {
+      "id": "panel_002_hexagon",
+      "index": 2,
+      "shape": "hexagon",
+      "source": "edge"
+    },
+    {
+      "id": "panel_003_hexagon",
+      "index": 3,
+      "shape": "hexagon",
+      "source": "edge"
+    },
+    {
+      "id": "panel_004_square",
+      "index": 4,
+      "shape": "square",
+      "source": "square_corner"
+    },
+    {
+      "id": "panel_005_hexagon",
+      "index": 5,
+      "shape": "hexagon",
+      "source": "edge"
+    },
+    {
+      "id": "panel_006_square",
+      "index": 6,
+      "shape": "square",
+      "source": "square_corner"
+    },
+    {
+      "id": "panel_007_hexagon",
+      "index": 7,
+      "shape": "hexagon",
+      "source": "edge"
+    },
+    {
+      "id": "panel_008_square",
+      "index": 8,
+      "shape": "square",
+      "source": "square_corner"
+    },
+    {
+      "id": "panel_009_hexagon",
+      "index": 9,
+      "shape": "hexagon",
+      "source": "edge"
+    },
+    {
+      "id": "panel_010_hexagon",
+      "index": 10,
+      "shape": "hexagon",
+      "source": "edge"
+    },
+    {
+      "id": "panel_011_square",
+      "index": 11,
+      "shape": "square",
+      "source": "square_corner"
+    },
+    {
+      "id": "panel_012_hexagon",
+      "index": 12,
+      "shape": "hexagon",
+      "source": "edge"
+    },
+    {
+      "id": "panel_013_hexagon",
+      "index": 13,
+      "shape": "hexagon",
+      "source": "edge"
+    },
+    {
+      "id": "panel_014_square",
+      "index": 14,
+      "shape": "square",
+      "source": "square_corner"
+    },
+    {
+      "id": "panel_015_hexagon",
+      "index": 15,
+      "shape": "hexagon",
+      "source": "edge"
+    },
+    {
+      "id": "panel_016_hexagon",
+      "index": 16,
+      "shape": "hexagon",
+      "source": "edge"
+    },
+    {
+      "id": "panel_017_hexagon",
+      "index": 17,
+      "shape": "hexagon",
+      "source": "edge"
+    },
+    {
+      "id": "panel_018_hexagon",
+      "index": 18,
+      "shape": "hexagon",
+      "source": "edge"
+    }
+  ]
+}

@@ -1,0 +1,744 @@
+{
+  "model": "footbag_122_panel",
+  "style": "122",
+  "radius": 2.0,
+  "panel_gap": 0.0001,
+  "panel_puff": 0.03,
+  "create_seam_shadow": false,
+  "edge_relaxation": true,
+  "hex_short_to_long_ratio": 0.001,
+  "panels": [
+    {
+      "id": "panel_001_hexagon",
+      "index": 1,
+      "shape": "hexagon",
+      "source": "edge"
+    },
+    {
+      "id": "panel_002_pentagon",
+      "index": 2,
+      "shape": "pentagon",
+      "source": "corner"
+    },
+    {
+      "id": "panel_003_hexagon",
+      "index": 3,
+      "shape": "hexagon",
+      "source": "edge"
+    },
+    {
+      "id": "panel_004_hexagon",
+      "index": 4,
+      "shape": "hexagon",
+      "source": "edge"
+    },
+    {
+      "id": "panel_005_pentagon",
+      "index": 5,
+      "shape": "pentagon",
+      "source": "corner"
+    },
+    {
+      "id": "panel_006_hexagon",
+      "index": 6,
+      "shape": "hexagon",
+      "source": "edge"
+    },
+    {
+      "id": "panel_007_hexagon_large",
+      "index": 7,
+      "shape": "hexagon_large",
+      "source": "interior"
+    },
+    {
+      "id": "panel_008_hexagon",
+      "index": 8,
+      "shape": "hexagon",
+      "source": "edge"
+    },
+    {
+      "id": "panel_009_hexagon",
+      "index": 9,
+      "shape": "hexagon",
+      "source": "edge"
+    },
+    {
+      "id": "panel_010_hexagon",
+      "index": 10,
+      "shape": "hexagon",
+      "source": "edge"
+    },
+    {
+      "id": "panel_011_hexagon",
+      "index": 11,
+      "shape": "hexagon",
+      "source": "edge"
+    },
+    {
+      "id": "panel_012_hexagon",
+      "index": 12,
+      "shape": "hexagon",
+      "source": "edge"
+    },
+    {
+      "id": "panel_013_pentagon",
+      "index": 13,
+      "shape": "pentagon",
+      "source": "corner"
+    },
+    {
+      "id": "panel_014_hexagon",
+      "index": 14,
+      "shape": "hexagon",
+      "source": "edge"
+    },
+    {
+      "id": "panel_015_pentagon",
+      "index": 15,
+      "shape": "pentagon",
+      "source": "corner"
+    },
+    {
+      "id": "panel_016_hexagon",
+      "index": 16,
+      "shape": "hexagon",
+      "source": "edge"
+    },
+    {
+      "id": "panel_017_hexagon",
+      "index": 17,
+      "shape": "hexagon",
+      "source": "edge"
+    },
+    {
+      "id": "panel_018_hexagon",
+      "index": 18,
+      "shape": "hexagon",
+      "source": "edge"
+    },
+    {
+      "id": "panel_019_hexagon_large",
+      "index": 19,
+      "shape": "hexagon_large",
+      "source": "interior"
+    },
+    {
+      "id": "panel_020_hexagon",
+      "index": 20,
+      "shape": "hexagon",
+      "source": "edge"
+    },
+    {
+      "id": "panel_021_hexagon",
+      "index": 21,
+      "shape": "hexagon",
+      "source": "edge"
+    },
+    {
+      "id": "panel_022_hexagon",
+      "index": 22,
+      "shape": "hexagon",
+      "source": "edge"
+    },
+    {
+      "id": "panel_023_pentagon",
+      "index": 23,
+      "shape": "pentagon",
+      "source": "corner"
+    },
+    {
+      "id": "panel_024_hexagon",
+      "index": 24,
+      "shape": "hexagon",
+      "source": "edge"
+    },
+    {
+      "id": "panel_025_hexagon",
+      "index": 25,
+      "shape": "hexagon",
+      "source": "edge"
+    },
+    {
+      "id": "panel_026_hexagon",
+      "index": 26,
+      "shape": "hexagon",
+      "source": "edge"
+    },
+    {
+      "id": "panel_027_hexagon_large",
+      "index": 27,
+      "shape": "hexagon_large",
+      "source": "interior"
+    },
+    {
+      "id": "panel_028_hexagon",
+      "index": 28,
+      "shape": "hexagon",
+      "source": "edge"
+    },
+    {
+      "id": "panel_029_hexagon",
+      "index": 29,
+      "shape": "hexagon",
+      "source": "edge"
+    },
+    {
+      "id": "panel_030_hexagon",
+      "index": 30,
+      "shape": "hexagon",
+      "source": "edge"
+    },
+    {
+      "id": "panel_031_pentagon",
+      "index": 31,
+      "shape": "pentagon",
+      "source": "corner"
+    },
+    {
+      "id": "panel_032_hexagon",
+      "index": 32,
+      "shape": "hexagon",
+      "source": "edge"
+    },
+    {
+      "id": "panel_033_hexagon",
+      "index": 33,
+      "shape": "hexagon",
+      "source": "edge"
+    },
+    {
+      "id": "panel_034_hexagon",
+      "index": 34,
+      "shape": "hexagon",
+      "source": "edge"
+    },
+    {
+      "id": "panel_035_hexagon_large",
+      "index": 35,
+      "shape": "hexagon_large",
+      "source": "interior"
+    },
+    {
+      "id": "panel_036_hexagon",
+      "index": 36,
+      "shape": "hexagon",
+      "source": "edge"
+    },
+    {
+      "id": "panel_037_hexagon",
+      "index": 37,
+      "shape": "hexagon",
+      "source": "edge"
+    },
+    {
+      "id": "panel_038_hexagon",
+      "index": 38,
+      "shape": "hexagon",
+      "source": "edge"
+    },
+    {
+      "id": "panel_039_hexagon_large",
+      "index": 39,
+      "shape": "hexagon_large",
+      "source": "interior"
+    },
+    {
+      "id": "panel_040_hexagon",
+      "index": 40,
+      "shape": "hexagon",
+      "source": "edge"
+    },
+    {
+      "id": "panel_041_hexagon",
+      "index": 41,
+      "shape": "hexagon",
+      "source": "edge"
+    },
+    {
+      "id": "panel_042_hexagon",
+      "index": 42,
+      "shape": "hexagon",
+      "source": "edge"
+    },
+    {
+      "id": "panel_043_pentagon",
+      "index": 43,
+      "shape": "pentagon",
+      "source": "corner"
+    },
+    {
+      "id": "panel_044_hexagon",
+      "index": 44,
+      "shape": "hexagon",
+      "source": "edge"
+    },
+    {
+      "id": "panel_045_hexagon",
+      "index": 45,
+      "shape": "hexagon",
+      "source": "edge"
+    },
+    {
+      "id": "panel_046_hexagon",
+      "index": 46,
+      "shape": "hexagon",
+      "source": "edge"
+    },
+    {
+      "id": "panel_047_hexagon_large",
+      "index": 47,
+      "shape": "hexagon_large",
+      "source": "interior"
+    },
+    {
+      "id": "panel_048_hexagon",
+      "index": 48,
+      "shape": "hexagon",
+      "source": "edge"
+    },
+    {
+      "id": "panel_049_hexagon",
+      "index": 49,
+      "shape": "hexagon",
+      "source": "edge"
+    },
+    {
+      "id": "panel_050_hexagon",
+      "index": 50,
+      "shape": "hexagon",
+      "source": "edge"
+    },
+    {
+      "id": "panel_051_pentagon",
+      "index": 51,
+      "shape": "pentagon",
+      "source": "corner"
+    },
+    {
+      "id": "panel_052_hexagon",
+      "index": 52,
+      "shape": "hexagon",
+      "source": "edge"
+    },
+    {
+      "id": "panel_053_hexagon",
+      "index": 53,
+      "shape": "hexagon",
+      "source": "edge"
+    },
+    {
+      "id": "panel_054_hexagon",
+      "index": 54,
+      "shape": "hexagon",
+      "source": "edge"
+    },
+    {
+      "id": "panel_055_hexagon_large",
+      "index": 55,
+      "shape": "hexagon_large",
+      "source": "interior"
+    },
+    {
+      "id": "panel_056_hexagon",
+      "index": 56,
+      "shape": "hexagon",
+      "source": "edge"
+    },
+    {
+      "id": "panel_057_hexagon",
+      "index": 57,
+      "shape": "hexagon",
+      "source": "edge"
+    },
+    {
+      "id": "panel_058_hexagon",
+      "index": 58,
+      "shape": "hexagon",
+      "source": "edge"
+    },
+    {
+      "id": "panel_059_pentagon",
+      "index": 59,
+      "shape": "pentagon",
+      "source": "corner"
+    },
+    {
+      "id": "panel_060_hexagon",
+      "index": 60,
+      "shape": "hexagon",
+      "source": "edge"
+    },
+    {
+      "id": "panel_061_hexagon",
+      "index": 61,
+      "shape": "hexagon",
+      "source": "edge"
+    },
+    {
+      "id": "panel_062_hexagon",
+      "index": 62,
+      "shape": "hexagon",
+      "source": "edge"
+    },
+    {
+      "id": "panel_063_hexagon_large",
+      "index": 63,
+      "shape": "hexagon_large",
+      "source": "interior"
+    },
+    {
+      "id": "panel_064_hexagon",
+      "index": 64,
+      "shape": "hexagon",
+      "source": "edge"
+    },
+    {
+      "id": "panel_065_hexagon",
+      "index": 65,
+      "shape": "hexagon",
+      "source": "edge"
+    },
+    {
+      "id": "panel_066_hexagon",
+      "index": 66,
+      "shape": "hexagon",
+      "source": "edge"
+    },
+    {
+      "id": "panel_067_pentagon",
+      "index": 67,
+      "shape": "pentagon",
+      "source": "corner"
+    },
+    {
+      "id": "panel_068_hexagon",
+      "index": 68,
+      "shape": "hexagon",
+      "source": "edge"
+    },
+    {
+      "id": "panel_069_hexagon",
+      "index": 69,
+      "shape": "hexagon",
+      "source": "edge"
+    },
+    {
+      "id": "panel_070_hexagon",
+      "index": 70,
+      "shape": "hexagon",
+      "source": "edge"
+    },
+    {
+      "id": "panel_071_hexagon_large",
+      "index": 71,
+      "shape": "hexagon_large",
+      "source": "interior"
+    },
+    {
+      "id": "panel_072_hexagon",
+      "index": 72,
+      "shape": "hexagon",
+      "source": "edge"
+    },
+    {
+      "id": "panel_073_hexagon",
+      "index": 73,
+      "shape": "hexagon",
+      "source": "edge"
+    },
+    {
+      "id": "panel_074_hexagon",
+      "index": 74,
+      "shape": "hexagon",
+      "source": "edge"
+    },
+    {
+      "id": "panel_075_pentagon",
+      "index": 75,
+      "shape": "pentagon",
+      "source": "corner"
+    },
+    {
+      "id": "panel_076_hexagon",
+      "index": 76,
+      "shape": "hexagon",
+      "source": "edge"
+    },
+    {
+      "id": "panel_077_hexagon",
+      "index": 77,
+      "shape": "hexagon",
+      "source": "edge"
+    },
+    {
+      "id": "panel_078_hexagon",
+      "index": 78,
+      "shape": "hexagon",
+      "source": "edge"
+    },
+    {
+      "id": "panel_079_hexagon_large",
+      "index": 79,
+      "shape": "hexagon_large",
+      "source": "interior"
+    },
+    {
+      "id": "panel_080_hexagon",
+      "index": 80,
+      "shape": "hexagon",
+      "source": "edge"
+    },
+    {
+      "id": "panel_081_hexagon",
+      "index": 81,
+      "shape": "hexagon",
+      "source": "edge"
+    },
+    {
+      "id": "panel_082_hexagon",
+      "index": 82,
+      "shape": "hexagon",
+      "source": "edge"
+    },
+    {
+      "id": "panel_083_hexagon",
+      "index": 83,
+      "shape": "hexagon",
+      "source": "edge"
+    },
+    {
+      "id": "panel_084_hexagon",
+      "index": 84,
+      "shape": "hexagon",
+      "source": "edge"
+    },
+    {
+      "id": "panel_085_pentagon",
+      "index": 85,
+      "shape": "pentagon",
+      "source": "corner"
+    },
+    {
+      "id": "panel_086_hexagon",
+      "index": 86,
+      "shape": "hexagon",
+      "source": "edge"
+    },
+    {
+      "id": "panel_087_hexagon_large",
+      "index": 87,
+      "shape": "hexagon_large",
+      "source": "interior"
+    },
+    {
+      "id": "panel_088_hexagon",
+      "index": 88,
+      "shape": "hexagon",
+      "source": "edge"
+    },
+    {
+      "id": "panel_089_hexagon",
+      "index": 89,
+      "shape": "hexagon",
+      "source": "edge"
+    },
+    {
+      "id": "panel_090_hexagon",
+      "index": 90,
+      "shape": "hexagon",
+      "source": "edge"
+    },
+    {
+      "id": "panel_091_hexagon",
+      "index": 91,
+      "shape": "hexagon",
+      "source": "edge"
+    },
+    {
+      "id": "panel_092_hexagon",
+      "index": 92,
+      "shape": "hexagon",
+      "source": "edge"
+    },
+    {
+      "id": "panel_093_hexagon",
+      "index": 93,
+      "shape": "hexagon",
+      "source": "edge"
+    },
+    {
+      "id": "panel_094_hexagon",
+      "index": 94,
+      "shape": "hexagon",
+      "source": "edge"
+    },
+    {
+      "id": "panel_095_hexagon",
+      "index": 95,
+      "shape": "hexagon",
+      "source": "edge"
+    },
+    {
+      "id": "panel_096_hexagon",
+      "index": 96,
+      "shape": "hexagon",
+      "source": "edge"
+    },
+    {
+      "id": "panel_097_hexagon_large",
+      "index": 97,
+      "shape": "hexagon_large",
+      "source": "interior"
+    },
+    {
+      "id": "panel_098_hexagon",
+      "index": 98,
+      "shape": "hexagon",
+      "source": "edge"
+    },
+    {
+      "id": "panel_099_hexagon",
+      "index": 99,
+      "shape": "hexagon",
+      "source": "edge"
+    },
+    {
+      "id": "panel_100_hexagon",
+      "index": 100,
+      "shape": "hexagon",
+      "source": "edge"
+    },
+    {
+      "id": "panel_101_hexagon",
+      "index": 101,
+      "shape": "hexagon",
+      "source": "edge"
+    },
+    {
+      "id": "panel_102_hexagon",
+      "index": 102,
+      "shape": "hexagon",
+      "source": "edge"
+    },
+    {
+      "id": "panel_103_hexagon",
+      "index": 103,
+      "shape": "hexagon",
+      "source": "edge"
+    },
+    {
+      "id": "panel_104_hexagon_large",
+      "index": 104,
+      "shape": "hexagon_large",
+      "source": "interior"
+    },
+    {
+      "id": "panel_105_hexagon",
+      "index": 105,
+      "shape": "hexagon",
+      "source": "edge"
+    },
+    {
+      "id": "panel_106_hexagon",
+      "index": 106,
+      "shape": "hexagon",
+      "source": "edge"
+    },
+    {
+      "id": "panel_107_hexagon",
+      "index": 107,
+      "shape": "hexagon",
+      "source": "edge"
+    },
+    {
+      "id": "panel_108_hexagon",
+      "index": 108,
+      "shape": "hexagon",
+      "source": "edge"
+    },
+    {
+      "id": "panel_109_hexagon",
+      "index": 109,
+      "shape": "hexagon",
+      "source": "edge"
+    },
+    {
+      "id": "panel_110_hexagon",
+      "index": 110,
+      "shape": "hexagon",
+      "source": "edge"
+    },
+    {
+      "id": "panel_111_hexagon_large",
+      "index": 111,
+      "shape": "hexagon_large",
+      "source": "interior"
+    },
+    {
+      "id": "panel_112_hexagon",
+      "index": 112,
+      "shape": "hexagon",
+      "source": "edge"
+    },
+    {
+      "id": "panel_113_hexagon",
+      "index": 113,
+      "shape": "hexagon",
+      "source": "edge"
+    },
+    {
+      "id": "panel_114_hexagon",
+      "index": 114,
+      "shape": "hexagon",
+      "source": "edge"
+    },
+    {
+      "id": "panel_115_hexagon_large",
+      "index": 115,
+      "shape": "hexagon_large",
+      "source": "interior"
+    },
+    {
+      "id": "panel_116_hexagon",
+      "index": 116,
+      "shape": "hexagon",
+      "source": "edge"
+    },
+    {
+      "id": "panel_117_hexagon",
+      "index": 117,
+      "shape": "hexagon",
+      "source": "edge"
+    },
+    {
+      "id": "panel_118_hexagon_large",
+      "index": 118,
+      "shape": "hexagon_large",
+      "source": "interior"
+    },
+    {
+      "id": "panel_119_hexagon_large",
+      "index": 119,
+      "shape": "hexagon_large",
+      "source": "interior"
+    },
+    {
+      "id": "panel_120_hexagon_large",
+      "index": 120,
+      "shape": "hexagon_large",
+      "source": "interior"
+    },
+    {
+      "id": "panel_121_hexagon_large",
+      "index": 121,
+      "shape": "hexagon_large",
+      "source": "interior"
+    },
+    {
+      "id": "panel_122_hexagon_large",
+      "index": 122,
+      "shape": "hexagon_large",
+      "source": "interior"
+    }
+  ]
+}
